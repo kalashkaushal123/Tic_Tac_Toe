@@ -9,14 +9,26 @@ The game allows two players to compete with customizable icons instead of tradit
 The interface is fully responsive and works smoothly on desktops, tablets, and mobile devices. Smooth hover animations, modern buttons, rounded game boxes, and elegant color combinations create a clean and attractive user experience.
 
 
-## Tach Stack 
+## ✨ Key Features
+
+🎨 Elegant Beige & Dark Grey UI
+📱 Fully Responsive Design
+🎭 Custom Icon Selection for Players
+⚡ Smooth Hover Animations
+🏆 Winner Announcement System
+🔄 Reset & New Game Functionality
+💻 Built with Tailwind CSS
+🎮 Interactive Gameplay Experience
+
+
+## ✨ Tach Stack 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 
-## ScreenShorts
+## ✨ ScreenShorts
 <p align="center">
   <img src="images/image1.png" width="45%" />
   <img src="images/image2.png" width="45%" />
