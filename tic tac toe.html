@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+
+    <link rel="stylesheet" href="tic tac toe.css">
+</head>
+<body>
+
+    <h1>Tic Tac Toe</h1>
+
+    <div class="main-container">
+
+
+        <!-- Icon Selection -->
+        <div class="selection-area player1-area">
+
+            <div class="player-select">
+                <h3>Player 1</h3>
+                <select id="player1-icon">
+                    <option>❌</option>
+                    <option>⚔️</option>
+                    <option>🌙</option>
+                    <option>❤️</option>
+                    <option>🔥</option>
+                    <option>🚀</option>
+                    <option>🌹</option>
+                </select>
+            </div>
+
+        </div>
+
+        <!-- Game -->
+        <div class="container">
+            <div class="game">
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+            </div>
+        </div>
+
+
+        <!-- Icon Selection -->
+        <div class="selection-area player2-area">
+
+            <div class="player-select">
+                <h3>Player 2</h3>
+                <select id="player2-icon">
+                    <option>⭕</option>
+                    <option>🛡️</option>
+                    <option>☀️</option>
+                    <option>💛</option>
+                    <option>❄️</option>
+                    <option>⭐</option>
+                    <option>🪷</option>
+                </select>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Winner Message -->
+    <div class="msg-container hide">
+        <p id="msg"></p>
+        <button id="new-btn">New Game</button>
+    </div>
+
+    <script src="tic tac toe.js"></script>
+</body>
+</html>
+
+
+
