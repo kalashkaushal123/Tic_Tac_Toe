@@ -6,8 +6,7 @@
 }
 
 body{
-    /* background: #e6dccf; */
-    background-image: url(https://thumbs.dreamstime.com/b/gold-texture-background-paper-yellow-vintage-cream-beige-color-parchment-paper-abstract-pastel-gold-gradient-brown-85906453.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./images/background-image.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
