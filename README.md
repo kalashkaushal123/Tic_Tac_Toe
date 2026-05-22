@@ -7,3 +7,21 @@ Elegant Tic Tac Toe is a modern and interactive web-based game developed using H
 The game allows two players to compete with customizable icons instead of traditional X and O symbols. Players can choose from different emoji categories such as flowers, animals, food, gaming icons, and more, making the gameplay more fun and personalized.
 
 The interface is fully responsive and works smoothly on desktops, tablets, and mobile devices. Smooth hover animations, modern buttons, rounded game boxes, and elegant color combinations create a clean and attractive user experience.
+
+
+## Tach Stack 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+
+## ScreenShorts
+
+
+
+## 📂 Folder Structure
+
+├── index.html
+├── style.css
+├── script.js
