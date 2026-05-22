@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(./images/background-image.png);
+    background-image: linear-gradient(rgb(179, 156, 120), rgb(187, 166, 132)),url(./images/background-image.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
