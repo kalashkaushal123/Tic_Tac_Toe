@@ -24,7 +24,7 @@ The interface is fully responsive and works smoothly on desktops, tablets, and m
 
 
 ## 📂 Folder Structure
-
+│
 ├── index.html
 ├── style.css
 ├── script.js
