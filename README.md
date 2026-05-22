@@ -11,6 +11,7 @@ The interface is fully responsive and works smoothly on desktops, tablets, and m
 
 ## ✨ Key Features
 
+``` text
 🎨 Elegant Beige & Dark Grey UI
 📱 Fully Responsive Design
 🎭 Custom Icon Selection for Players
@@ -19,6 +20,7 @@ The interface is fully responsive and works smoothly on desktops, tablets, and m
 🔄 Reset & New Game Functionality
 💻 Built with Tailwind CSS
 🎮 Interactive Gameplay Experience
+```
 
 
 ## ✨ Tach Stack 
