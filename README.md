@@ -17,8 +17,10 @@ The interface is fully responsive and works smoothly on desktops, tablets, and m
 
 
 ## ScreenShorts
-![image1](images/image1.png)
-![image2](images/image2.png)
+<p align="center">
+  <img src="images/image1.png" width="45%" />
+  <img src="images/image2.png" width="45%" />
+</p>
 
 
 ## 📂 Folder Structure
