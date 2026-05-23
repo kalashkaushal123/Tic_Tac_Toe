@@ -43,4 +43,6 @@ The interface is fully responsive and works smoothly on desktops, tablets, and m
 ├── index.html
 ├── style.css
 ├── script.js
+├── images
+└── README.md
 ```
